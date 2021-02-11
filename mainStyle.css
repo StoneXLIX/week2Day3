@@ -1,0 +1,36 @@
+
+body {
+    background-position: center center;
+    background-position:center ;
+    background-size:cover;
+    background-image: url( spacePhoto2.jpeg);
+}
+body li{
+    display: inline;
+    list-style-type: none;
+    font-size: 20px;
+    padding-right: 28px;
+}
+
+h1, h2, h3{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+h1, h3{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    line-height: 10px;
+    
+}
+h2{
+    font-size: 30px;
+}
+ul{
+    text-align: center;
+    margin-bottom: 50px;
+    background-color: black;
+    height: 40px;
+}
